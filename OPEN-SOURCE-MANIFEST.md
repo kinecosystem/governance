@@ -4,7 +4,7 @@
 
 ## Abstract
 
-The Kin Foundation is committed to working together with developers from the Kin Community to develop all Open Source Software in the open.
+The Kin Foundation is committed to working together with developers from the Kin Community to develop all Open Source Software in a completely open, transparent manner.
 
 ## Managed Projects
 
@@ -25,26 +25,26 @@ This document applies to the following Open Source Software (OSS) projects maint
 
 ## Release Strategy SDKs
 
-A lot of successful open source projects have a release strategy that allows them to ship updates to their software frequently in a predictable way.
+Many successful open source projects have a release strategy that allows them to ship updates to their software frequently in a predictable way.
 
-There are a lot of benefits to an approach like this:
+There are many benefits to an approach like this:
 
 - Consumers of the SDKs know when a new version will be released, and can plan around this.
 - The dependencies of the SDKs get updated frequently.
 - The project always has activity on GitHub.
 - The releases become part of the routine for the team.
 
-### Minor releases (bi-weekly)
+### Minor Releases (bi-weekly)
 
 Every other week on Thursday, the Kin Foundation will release a new version of all their SDKs.
 
 These versions include updates of any dependencies, bug-fixes and non-breaking changes.
 
-The developers consuming these updates are advised to use them, but can choose to skip a few minor versions.
+The developers consuming these updates are advised to use them, but can choose to skip a few minor versions without issues.
 
-### Major releases (bi-yearly)
+### Major Releases (bi-yearly)
 
-Twice a year, in October and April (TBD), the Kin Foundation will release a ‘major’ release of each of the managed projects.
+Twice a year, in October and April (TBD), the Kin Foundation will unveil a ‘major’ release of each of the managed projects.
 
 A Major release can contain breaking changes, add deprecations, remove functionality and add functionality that previously did not exist.
 
